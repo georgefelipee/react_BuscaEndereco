@@ -1,4 +1,4 @@
-# react_Buscaendereco
+# react_BuscaEndereco
 
 # 💻 1.1
 Esse projeto é um Buscador de endereço de acordo com o cep atribuído no INPUT.
