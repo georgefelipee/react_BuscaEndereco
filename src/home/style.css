@@ -47,3 +47,25 @@ header p{
     background-color:#f2ea6f;
     color: #FA2700;
 }
+section{
+    display: flex; 
+}
+button{
+     margin-left: 20px;
+     border: none;
+     background-color: #E0640B;
+     font-size: 20px;
+     font-weight: bold;
+     color:#fff;
+     border-radius: 10px;
+     padding: 20px;
+     cursor: pointer;
+
+}
+
+button:hover{
+    transition: 0.4s;
+    background-color: #fff;
+    color:  #E0640B;
+
+}
