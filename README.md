@@ -1,6 +1,6 @@
 # react_Buscaendereco
 
-# 1.1
+# 💻 1.1
 Esse projeto é um Buscador de endereço de acordo com o cep atribuído no INPUT.
 
 Utilizando react, juntamente com seus Hooks 'useState' e 'useEffect' para realizar mudanças na interface e a chamada de requisição, respectivamente.
